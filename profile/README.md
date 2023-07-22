@@ -1,4 +1,27 @@
-## Hi there 👋
+# ITRI Robotics Lab
+
+## Introduction
+
+The **ITRI Robotics Lab** is established by the [Industrial Technology Research Institute (ITRI)](https://www.itri.org.tw/). It primarily focuses on the research and development of robotic technologies. ITRI has always been a leader in technological R&D and innovation in Taiwan, and this lab is one of its most iconic representations.
+
+## Main Research Areas
+
+- Autonomous Mobile Robots
+- Industrial Automation & Robotic Arms
+- Application of AI & Machine Learning in Robotics
+
+## Notable Achievements
+
+- Published numerous international research papers.
+- Collaborated with numerous global enterprises to promote the application of robotic technologies.
+
+## Contact Us
+
+If you're interested in collaboration or seeking more information, please visit our [official website](https://www.itri.org.tw/).
+
+---
+
+Thank you for your interest in the **ITRI Robotics Lab**!
 
 <!--
 
